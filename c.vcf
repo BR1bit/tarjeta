@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rodríguez;Bruno;;;
+FN:Bruno Rodríguez
+ORG:UTEC - UTU - APES
+TITLE:Docente - Infraestructuras - Redes - TI
+TEL;TYPE=CELL:+59891244212
+EMAIL;TYPE=INTERNET:bruno.rodriguez.t@utec.edu.uy
+ADR;TYPE=WORK:;;Paysandú - Uruguay;;;;
+END:VCARD
